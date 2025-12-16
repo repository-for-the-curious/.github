@@ -49,7 +49,7 @@ Este repositório é indicado para todos os que buscam uma fonte confiável para
 - Documentação é parte do produto
 - Simplicidade > abstração prematura
 
-[MENU](#-menu)
+[MENU](#menu)
 
 ---
 
@@ -94,7 +94,7 @@ This repository is intended for those seeking a reliable source to:
 - Documentation is part of the product
 - Simplicity > premature abstraction
 
-[MENU](#-menu)
+[MENU](#menu)
 
 ---
 
@@ -141,7 +141,7 @@ Dieses Repository richtet sich an alle, die eine verlässliche Quelle suchen, um
 - Dokumentation ist Teil des Produkts
 - Einfachheit > vorzeitige Abstraktion
 
-[MENU](#-menu)
+[MENU](#menu)
 
 ---
 
@@ -153,7 +153,7 @@ Dieses Repository richtet sich an alle, die eine verlässliche Quelle suchen, um
 
 [SEARCH_CONTENT.md](./SEARCH_CONTENT.md)
 
-[MENU](#-menu)
+[MENU](#menu)
 
 ---
 
@@ -167,7 +167,7 @@ salvo indicação contrária em repositórios específicos.
 unless otherwise stated in specific repositories.
 sofern in einzelnen Repositories nichts anderes angegeben ist.
 
-[MENU](#-menu)
+[MENU](#menu)
 
 ---
 
@@ -176,4 +176,4 @@ sofern in einzelnen Repositories nichts anderes angegeben ist.
 Vinicius Matos
 https://www.linkedin.com/in/ai-engineer-vinicius-matos/
 
-[MENU](#-menu)
+[MENU](#menu)
