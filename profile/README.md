@@ -2,10 +2,9 @@
 # 🐍 [Repositório para Curiosos](#-português-brasil)
 # 🐍 [Repository for the Curious](#-english)
 # 🐍 [Repository für Neugierige](#-deutsch)
-# 🔎 [Consultar Conteúdo | Content Search | Inhaltssuche](#-consultar-conteúdo--content-search--inhaltssuche)
-# 📄 [Licença | License | Lizenz](#-licença--license--lizenz)
+# 🔎 [Consultar Conteúdo | Content Search | Inhaltssuche](#-consultar-conteudo--content-search--inhaltssuche)
+# 📄 [Licença | License | Lizenz](#-licenca--license--lizenz)
 # 🎩 [Contato | Contact | Kontakt](#-contato--contact--kontakt)
-
 ---
 
 ## 🇧🇷 Português (Brasil)
