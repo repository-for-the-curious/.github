@@ -156,7 +156,7 @@ Dieses Repository richtet sich an alle, die eine verlässliche Quelle suchen, um
 👉 See the **Semantic Index** for topic and tag-based navigation:  
 👉 Siehe den **Semantischen Index** zur Navigation nach Themen und Tags:
 
-[SEARCH_CONTENT.md](./SEARCH_CONTENT.md)
+[knowledge-hub](https://github.com/repository-for-the-curious/knowledge-hub)
 
 [MENU](#menu)
 
