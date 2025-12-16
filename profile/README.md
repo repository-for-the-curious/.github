@@ -1,3 +1,4 @@
+<a id="menu"></a>
 # MENU
 - 🐍 [Repositório para Curiosos](#pt-br)
 - 🐍 [Repository for the Curious](#en)
