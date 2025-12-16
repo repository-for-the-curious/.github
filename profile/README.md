@@ -1,13 +1,14 @@
 # MENU
-- 🐍 [Repositório para Curiosos](#-português-brasil)
-- 🐍 [Repository for the Curious](#-english)
-- 🐍 [Repository für Neugierige](#-deutsch)
-- 🔎 [Consultar Conteúdo | Content Search | Inhaltssuche](#-consultar-conteudo-content-search-inhaltssuche)
-- 📄 [Licença | License | Lizenz](#-licenca-license-lizenz)
-- 🎩 [Contato | Contact | Kontakt](#-contato-contact-kontakt)
+- 🐍 [Repositório para Curiosos](#pt-br)
+- 🐍 [Repository for the Curious](#en)
+- 🐍 [Repository für Neugierige](#de)
+- 🔎 [Consultar Conteúdo | Content Search | Inhaltssuche](#search-content)
+- 📄 [Licença | License | Lizenz](#license)
+- 🎩 [Contato | Contact | Kontakt](#contact)
 
 ---
 
+<a id="pt-br"></a>
 ## 🇧🇷 Português (Brasil)
 
 Esta organização reúne **projetos abertos, experimentos e referências práticas**
@@ -53,6 +54,7 @@ Este repositório é indicado para todos os que buscam uma fonte confiável para
 
 ---
 
+<a id="en"></a>
 ## 🇺🇸 English
 
 This organization brings together **open projects, experiments, and practical
@@ -98,6 +100,7 @@ This repository is intended for those seeking a reliable source to:
 
 ---
 
+<a id="de"></a>
 ## 🇩🇪 Deutsch
 
 Diese Organisation vereint **offene Projekte, Experimente und praxisnahe
@@ -145,10 +148,11 @@ Dieses Repository richtet sich an alle, die eine verlässliche Quelle suchen, um
 
 ---
 
+<a id="search-content"></a>
 ## 🔎 Consultar Conteúdo | Content Search | Inhaltssuche
 
-👉 Consulte o **Índice Semântico** para navegação por temas e tags:
-👉 See the **Semantic Index** for topic and tag-based navigation:
+👉 Consulte o **Índice Semântico** para navegação por temas e tags:  
+👉 See the **Semantic Index** for topic and tag-based navigation:  
 👉 Siehe den **Semantischen Index** zur Navigation nach Themen und Tags:
 
 [SEARCH_CONTENT.md](./SEARCH_CONTENT.md)
@@ -157,23 +161,25 @@ Dieses Repository richtet sich an alle, die eine verlässliche Quelle suchen, um
 
 ---
 
+<a id="license"></a>
 ## 📄 Licença | License | Lizenz
 
-Todo o conteúdo desta organização é disponibilizado sob a licença **MIT**,
-All content in this organization is released under the **MIT License**,
-Der gesamte Inhalt dieser Organisation steht unter der **MIT-Lizenz**,
+Todo o conteúdo desta organização é disponibilizado sob a licença **MIT**,  
+All content in this organization is released under the **MIT License**,  
+Der gesamte Inhalt dieser Organisation steht unter der **MIT-Lizenz**,  
 
-salvo indicação contrária em repositórios específicos.
-unless otherwise stated in specific repositories.
+salvo indicação contrária em repositórios específicos.  
+unless otherwise stated in specific repositories.  
 sofern in einzelnen Repositories nichts anderes angegeben ist.
 
 [MENU](#menu)
 
 ---
 
+<a id="contact"></a>
 ## 🎩 Contato | Contact | Kontakt
 
-Vinicius Matos
+Vinicius Matos  
 https://www.linkedin.com/in/ai-engineer-vinicius-matos/
 
 [MENU](#menu)
